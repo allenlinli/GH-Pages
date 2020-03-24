@@ -1,0 +1,586 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/DetectPage.swift",
+      "line": 18,
+      "symbol": "UIViewController.classInit",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/DetectPage.swift",
+      "line": 25,
+      "symbol": "UIViewController.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/DetectPage.swift",
+      "line": 29,
+      "symbol": "UIViewController.classInitViewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/DetectPage.swift",
+      "line": 35,
+      "symbol": "UIViewController.classInitViewDidAppear()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/DetectPage.swift",
+      "line": 47,
+      "symbol": "UIViewController.swizzledViewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/DetectPage.swift",
+      "line": 60,
+      "symbol": "UIViewController.swizzledViewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/Hits+CoreDataProperties.swift",
+      "line": 15,
+      "symbol": "Hits.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/Hits+CoreDataProperties.swift",
+      "line": 19,
+      "symbol": "Hits.hitOrder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Components/Hits+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "Hits.requestUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Event.swift",
+      "line": 11,
+      "symbol": "EventName",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Event.swift",
+      "line": 76,
+      "symbol": "EventParam",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Event.swift",
+      "line": 144,
+      "symbol": "Event",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Event.swift",
+      "line": 149,
+      "symbol": "Event.Key",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Event.swift",
+      "line": 150,
+      "symbol": "Event.Key.eventName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Event.swift",
+      "line": 151,
+      "symbol": "Event.Key.paramsKey",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 11,
+      "symbol": "Hit",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 21,
+      "symbol": "Hit.host",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 27,
+      "symbol": "Hit.urlEncodeString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 45,
+      "symbol": "Hit.HitType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 46,
+      "symbol": "Hit.HitType.pageView",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 47,
+      "symbol": "Hit.HitType.event",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 48,
+      "symbol": "Hit.HitType.transaction",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 51,
+      "symbol": "Hit.init(params:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 56,
+      "symbol": "Hit.init(urlString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 77,
+      "symbol": "Hit",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 79,
+      "symbol": "Hit.urlQueryString(urlString:parameters:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Hit.swift",
+      "line": 121,
+      "symbol": "Hit.addValueType(parameters:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Page.swift",
+      "line": 11,
+      "symbol": "Page",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Transaction.swift",
+      "line": 12,
+      "symbol": "TransactionName",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Hit/Transaction.swift",
+      "line": 20,
+      "symbol": "TransactionParam",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 12,
+      "symbol": "AppInfo",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 13,
+      "symbol": "AppInfo.appId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 14,
+      "symbol": "AppInfo.version",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 15,
+      "symbol": "AppInfo.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 16,
+      "symbol": "AppInfo.installerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 18,
+      "symbol": "AppInfo.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 30,
+      "symbol": "AppInfo.Key",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 31,
+      "symbol": "AppInfo.Key.appId",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 32,
+      "symbol": "AppInfo.Key.appName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 33,
+      "symbol": "AppInfo.Key.appVersion",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/AppInfo.swift",
+      "line": 34,
+      "symbol": "AppInfo.Key.appInstallerId",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 13,
+      "symbol": "Device",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 15,
+      "symbol": "Device.resolution",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 21,
+      "symbol": "Device.language",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 23,
+      "symbol": "Device.resettableDeviceId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 25,
+      "symbol": "Device.timeZone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 27,
+      "symbol": "Device.limitAdTracking",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 29,
+      "symbol": "Device.init(device:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 36,
+      "symbol": "Device.Key",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 37,
+      "symbol": "Device.Key.resolution",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 38,
+      "symbol": "Device.Key.language",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 39,
+      "symbol": "Device.Key.resettableId",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 40,
+      "symbol": "Device.Key.timeZone",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Device.swift",
+      "line": 41,
+      "symbol": "Device.Key.limitAdTracking",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 11,
+      "symbol": "Traffic",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 13,
+      "symbol": "Traffic.dictionary",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 31,
+      "symbol": "Traffic.googleClickId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 33,
+      "symbol": "Traffic.utmSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 35,
+      "symbol": "Traffic.utmMedium",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 37,
+      "symbol": "Traffic.utmCampaign",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 39,
+      "symbol": "Traffic.utmTerm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 41,
+      "symbol": "Traffic.utmContent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 46,
+      "symbol": "Traffic.Key",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 47,
+      "symbol": "Traffic.Key.googleClickId",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 48,
+      "symbol": "Traffic.Key.utmSource",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 49,
+      "symbol": "Traffic.Key.utmMedium",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 50,
+      "symbol": "Traffic.Key.utmCampaign",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 51,
+      "symbol": "Traffic.Key.utmTerm",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 52,
+      "symbol": "Traffic.Key.utmContent",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 53,
+      "symbol": "Traffic.Key.referralDirectory",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/Traffic.swift",
+      "line": 56,
+      "symbol": "Traffic.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/User.swift",
+      "line": 11,
+      "symbol": "User",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/User.swift",
+      "line": 33,
+      "symbol": "User.userId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Required Params/User.swift",
+      "line": 35,
+      "symbol": "User.Key",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 13,
+      "symbol": "iKalaAPIError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 37,
+      "symbol": "Tracker",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 236,
+      "symbol": "Tracker",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 309,
+      "symbol": "Tracker.autoRequestPage(className:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 335,
+      "symbol": "Tracker.lastHitString()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 343,
+      "symbol": "Tracker.setTraffic(traffic:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 353,
+      "symbol": "Tracker.getDataCount()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 357,
+      "symbol": "Tracker.getDataCount(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker/iKalaTracker/Classes/Tracker.swift",
+      "line": 361,
+      "symbol": "Tracker.getCustomPage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/shoubunan/AppDevelop/2019/ClientProject/ikalatracker"
+}
